@@ -1,2 +1,7 @@
 server:
   port: 23080
+
+spring:
+  main:
+    # 关闭启动 Banner
+    banner-mode: off
